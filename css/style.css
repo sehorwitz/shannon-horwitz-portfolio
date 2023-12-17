@@ -93,8 +93,8 @@
 
 
 
-/* .btn-outline-dark {color:#052653; background-color: #b4cef0;}
-.btn-outline-dark:hover{background-color: #2280eb;} */
+.btn-outline-dark {color:#052653; margin-top:10px;background-color: #b4cef0;}
+.btn-outline-dark:hover{background-color: #2280eb;}
 
 /*** Basic Text Styles ***/
 
