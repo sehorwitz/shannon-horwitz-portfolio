@@ -115,6 +115,7 @@ hr {
 p {
     font-size: 25px;
     font-style: bold;
+    padding: 25px;
     /* text-shadow: 1px 2px 20px #f1ebdf; */
     text-shadow: 1px 1px 0px   #f1ebdf, -1px -1px 0px   #f1ebdf, 1px -1px 0px   #f1ebdf, -1px 1px 0px   #f1ebdf;
 
